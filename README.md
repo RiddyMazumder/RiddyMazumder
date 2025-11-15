@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/u/0/folders/12xlZ0R_ubut00kYn7slCg4g5N5anMVxb">
 <!--
 **RiddyMazumder/RiddyMazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
