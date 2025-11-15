@@ -12,7 +12,7 @@
 - 💬 Ask me about **Cyber , ML**
 
 - ⚡ Fun fact **I'm chill**
-<img align="center" alt="Coding" width="200" height="200"  src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
+<img align="center" alt="Coding" width="300" height="200"  src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
