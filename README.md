@@ -1,4 +1,4 @@
-<img src="https://github.com/RiddyMazumder/GIF/blob/main/My%20Video.gif" alt="MasterHead" width="2000" height="300">
+<img src="https://github.com/RiddyMazumder/GIF/blob/main/My%20Video.gif" alt="MasterHead" width="1000" height="250">
 <h1 align="center">Hi 👋, I'm RiddyMazumder</h1>
 <h3 align="center">Cybersecurity & Bug-bounty hunter with growing expertise in ML, DL, and LLMs</h3>
 <img align="right" alt="Coding" width="300" height="200"  src="https://github.com/RiddyMazumder/GIF/blob/main/Tech%20Harmony%20-%20Dream%20Machine.gif">
