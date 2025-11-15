@@ -12,7 +12,7 @@
 - 💬 Ask me about **Cyber , ML**
 
 - ⚡ Fun fact **I'm chill**
-<img align="center" alt="Coding" width="400"   src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
+<img align="center" alt="Coding" width="400" height="200"  src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddymazumder&show_icons=true&locale=en&layout=compact" alt="riddymazumder" /></p>
 
 
-<img align="right" alt="Coding" width="400"  src="https://github.com/RiddyMazumder/GIF/blob/main/Cyberpunk%20Coder%20-%20Dream%20Machine_2.gif">
+<img align="right" alt="Coding" width="400" height="200"  src="https://github.com/RiddyMazumder/GIF/blob/main/Cyberpunk%20Coder%20-%20Dream%20Machine_2.gif">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=riddymazumder&show_icons=true&locale=en" alt="riddymazumder" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=riddymazumder&" alt="riddymazumder" /></p>
