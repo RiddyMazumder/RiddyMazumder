@@ -57,7 +57,7 @@
 
 ## 🧠 Aesthetic GIF Sections
 <div align="center">
-  <img src="https://github.com/RiddyMazumder/GIF/blob/main/Tech%20Harmony%20-%20Dream%20Machine.gif" width="350" />
+  
   <img src="https://github.com/RiddyMazumder/GIF/blob/main/Cyberpunk%20Coder%20-%20Dream%20Machine_2.gif" width="350" />
 </div>
 
@@ -68,4 +68,3 @@
 
 ---
 
-### ⭐ If you like this profile, consider starring some repos!
