@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <img align="right" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="260" style="border-radius:15px;" />
 - 🌱 Currently diving deep into **Large Language Models (LLMs)**
 - 🧪 Exploring **ML Models**, **Hybrid ML Modeling** & **Data Automation**
 - 🐳 Learning & deploying projects with **Docker**
@@ -42,13 +42,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=riddymazumder&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riddymazumder&theme=tokyonight" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddymazumder&layout=compact&theme=tokyonight" height="160px" />
-
+## 🚀 Cyber Stats & Aesthetic Zone
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github.com/RiddyMazumder/GIF/blob/main/Tech%20Harmony%20-%20Dream%20Machine.gif" width="350" style="border-radius:15px; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riddymazumder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddymazumder&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 10px;" />
+  <img src="https://github.com/RiddyMazumder/GIF/blob/main/Cyberpunk%20Coder%20-%20Dream%20Machine_2.gif" width="350" style="border-radius:15px; margin: 10px;" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddymazumder&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 15px;" />
 </div>
 
 ---
@@ -66,3 +67,4 @@
 
 ---
 
+### ⭐ If you like this profile, consider starring some repos!
