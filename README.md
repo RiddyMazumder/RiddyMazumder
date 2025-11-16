@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools <img align="right" src="https://github.com/RiddyMazumder/GIF/blob/main/Tech%20Harmony%20-%20Dream%20Machine.gif" width="260" style="border-radius:15px;" />
 <div align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
@@ -44,10 +44,11 @@
 
 ## 🚀 Cyber Stats & Aesthetic Zone
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/RiddyMazumder/GIF/blob/main/Tech%20Harmony%20-%20Dream%20Machine.gif" width="350" style="border-radius:15px; margin: 10px;" />
+
+  
   <img src="https://github-readme-stats.vercel.app/api?username=riddymazumder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddymazumder&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 10px;" />
-  <img src="https://github.com/RiddyMazumder/GIF/blob/main/Cyberpunk%20Coder%20-%20Dream%20Machine_2.gif" width="350" style="border-radius:15px; margin: 10px;" />
+ 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddymazumder&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 15px;" />
 </div>
